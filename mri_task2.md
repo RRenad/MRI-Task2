@@ -13,7 +13,7 @@
 *     We convert an image to k-Space. K-space data are equivalent to a Fourier plane. A point close to the centre of k-space contributes a low spatial frequency, represented by a wave with broad peaks and troughs as shown in the resulted figure :
 
 *    Results:
-![](\K-Space.png)  
+![](K-Space.png)  
 
 *    Source Code :
 
@@ -54,8 +54,9 @@ cv.destroyAllWindows()
 *    Second plot in the same figure represents  the effect of External EMF on water molecules through the whole body( X _axis), (Y _axis) represents the multiplication of gyromagnetic ratio (0.43MH\m T) of hydrogen molecules by External EMF ( 1000m T : 1500 m T), this plot shows that the non-uniformity effect of External EMF on water molecules through human’s body.
 
 *    Results
-![](b.PNG)
-![](c.PNG)
+
+* ![](b.PNG)
+* ![](c.PNG)
 
 *    Source Code for 2.a :
  
