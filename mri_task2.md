@@ -13,6 +13,7 @@
 *     We convert an image to k-Space. K-space data are equivalent to a Fourier plane. A point close to the centre of k-space contributes a low spatial frequency, represented by a wave with broad peaks and troughs as shown in the resulted figure :
 
 *    Results:
+
 ![](K-Space.png)  
 
 *    Source Code :
